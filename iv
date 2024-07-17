@@ -1,1 +1,1 @@
-start calc; "pwnd by a hacker" > "$env:tmp\pwn.txt" ; notepad "$env:tmp\pwn.txt"
+start calc
